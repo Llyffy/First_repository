@@ -1,2 +1,3 @@
 #ignoring this options
-
+*.рус
+cache/*
